@@ -1,0 +1,6 @@
+{
+  "name": "MON VOYAGE NUMÉRIQUE",
+  "description": "Portfolio personnel interactif sous forme de jeu vidéo 2.5D isométrique : un voyage en train à travers six gares thématiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
